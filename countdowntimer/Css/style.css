@@ -1,0 +1,40 @@
+.main-container {
+    width: 350px;
+    height: 280px;
+    background-color: rgb(135, 203, 185);
+    border: 2px solid #3b3a3a;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .countdown {
+    margin: 30px;
+    padding: 5px;
+    
+  }
+  
+  .countdown label,
+  .countdown input,
+  .countdown button {
+    margin: 5px;
+    padding: 10px;
+    
+  }
+  
+  .countdown div {
+    font-size: 30px;
+    margin-top: 10px;
+    padding: 5px;
+  }
+
+  .para{
+padding: 10px;
+  }
+  
